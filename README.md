@@ -3,7 +3,7 @@
 ### I am a computer science student and this is my last year! :bowtie:
 
 
-#### Programming skills: Java,JavaScript,C#,C++,C,HTML,CSS.  
+#### Programming skills: Java,JavaScript,C#,C++,C,HTML,CSS,Python.  
 
 
 
