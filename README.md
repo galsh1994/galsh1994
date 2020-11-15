@@ -10,7 +10,7 @@
 #### In the current semester I am working on 3 projects:
 ##### 1. Mobile App (Android) :iphone:
 ##### 2. Web App :computer:
-##### 3. FullStack intern final project. :mortar_board:
+##### 3. FullStack internship final project. :mortar_board:
 
  
  
