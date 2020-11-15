@@ -1,16 +1,16 @@
-### Hi there 👋
+ 
+## My name is Gal Shaked :girl:
+## I am a computer science student and this is my last year! :bowtie:
 
-<!--
-**galsh1994/galsh1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Programming skills: Java,JavaScript,C#,C++,C,HTML,CSS.  
 
-Here are some ideas to get you started:
+### In the current semester I am working on 3 projects:
+#### 1. Mobile App (Android) :iphone:
+#### 2. Web App :computer:
+#### 3. FullStack intern final project. :mortar_board:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+  #### Find me on 
+<a href="[https://www.linkedin.com/in/gal-shaked-b97361164/](https://www.linkedin.com/in/gal-shaked-b97361164/)" rel="nofollow">
+<img align="left" alt="Gal Shaked Linkdin" width="21px" src="[https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg](https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg)" style="max-width:100%;">
+</a> 
