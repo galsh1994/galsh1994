@@ -7,10 +7,10 @@
 
 
 
-#### In the current semester I am working on 3 projects:
-##### 1. Mobile App (Android) :iphone:
-##### 2. Web App :computer:
-##### 3. FullStack internship final project. :mortar_board:
+#### In the current semester I am working on 2 projects
+#### Second Chance - Android applicition that connects between people who wants to hand over items. :iphone:
+#### Little Buddy - Web applicition to manage your private garden :computer:
 
+ 
  
  
